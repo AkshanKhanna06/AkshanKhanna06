@@ -17,9 +17,11 @@ A cloud-native project with booking, flight and payment services deployed on AWS
 Includes Docker, ALB path routing, CloudWatch logs and CI/CD integration.
 Repo: add your link here once repo is ready
 
-🔹 AWS Infrastructure Automation
+🔹 End To End DevOps Pipeline for Cloud Native Monitoring and Logging
 
-Set of Terraform configs to provision VPCs, load balancers, ECS tasks, IAM roles and container deployments.
+Set up centralized monitoring and logging for a Node.js application on Minikube, including log collection, metric
+monitoring, and performance visualization.
+Tools-Kubernetes, Fluentd, Elasticsearch, Kibana, Prometheus, Grafana
 
 🔹 CI/CD Pipeline Demo
 
