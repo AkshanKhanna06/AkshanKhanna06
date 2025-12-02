@@ -1,4 +1,4 @@
-👋 Hey, I'm Akshan Khanna
+# Hey, I'm Akshan Khanna
 
 Cloud and DevOps engineering student building practical projects around microservices, AWS, automation and CI/CD. I enjoy creating small but real deployments that reflect how things work in production.
 
@@ -128,7 +128,7 @@ Log storage in Elasticsearch
 Log analysis with Kibana
 Kubernetes manifests for deployments
 
-## ▶ How to Run
+# How to Run
 minikube start
 kubectl apply -f k8s/
 
