@@ -1,4 +1,3 @@
----
 
 # Hey, I'm Akshan Khanna
 
